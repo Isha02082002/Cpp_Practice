@@ -13,6 +13,7 @@ int main()
     cout<<(float)a/b<<endl;//explicit
     cout<<a/7.0<<endl;
     cout<<'a'+1<<endl;  //implicit
-    cout<<a%b<<endl;//remainder -->1                                                                                                                                                                                                                       
+    cout<<a%b<<endl;//remainder -->1   
+                                                                                                                                                                                                                        
     cout<<b%a<<endl;//if numrator is less than our ans is numerator--->3
 }
